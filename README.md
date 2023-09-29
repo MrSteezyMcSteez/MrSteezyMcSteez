@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+view-source:http://luis.net/projects/svg/st-niccc/demo.svg
+
+<img src="http://luis.net/projects/svg/st-niccc/demo.svg" width="800" height="400" alt="yoooo">
